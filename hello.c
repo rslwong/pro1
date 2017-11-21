@@ -4,7 +4,7 @@ void printfun();
 int main()
 {
   printfun();
-  printf("Hello! version 3\n");
+  printf("Hello! version github\n");
   return 0;
 }
 
