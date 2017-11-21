@@ -4,4 +4,4 @@ clean:
 	rm -f hello *.o
 
 compile:
-	gcc hello.c -o hello
+	gcc printfun.c hello.c -o hello
