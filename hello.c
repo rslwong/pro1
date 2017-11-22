@@ -5,6 +5,7 @@ void printfun();
 int main()
 {
   printfun();
+  printfun();
   printf("Hello! version git-hub\n");
   printf("Hello! version git-hub\n");
   return 0;
