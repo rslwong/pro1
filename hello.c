@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* added by clone again
+*/
 void printfun();
 /* added by clone again
 */
